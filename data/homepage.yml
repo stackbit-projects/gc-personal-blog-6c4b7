@@ -20,7 +20,7 @@ skill:
       progress : "90%"
       color : "#fdb157"
       
-    - title : ""
+    - title : "Blog"
       progress : "60%"
       color : "#9473e6"
       
